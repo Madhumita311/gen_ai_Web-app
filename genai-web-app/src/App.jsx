@@ -6,7 +6,7 @@ import './App.css'
 function App() {
   return (
    <div className='main-container'>
-<h1>Gen AI App</h1>
+<h1>Gen AI App2</h1>
    </div>
   );
 }
