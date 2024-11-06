@@ -6,6 +6,7 @@ import './App.css'
 function App() {
   return (
    <div className='main-container'>
+
 <h1>Gen AI Web App by Visuara AI</h1>
 <div className='form-container'>
   <div>
